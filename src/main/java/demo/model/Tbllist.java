@@ -9,6 +9,7 @@ import javax.persistence.Table;
 
 /**
  * The persistent class for the tbllists database table.
+ * 2nd test COMMENTNNTNTNNTNTNTNNT
  */
 @Entity
 @Table(name = "tbllists")
