@@ -7,6 +7,7 @@ import javax.persistence.*;
 /**
  * The persistent class for the tblcategories database table.
  * 
+ * test commennnnnttttt
  */
 @Entity
 @Table(name="tblcategories")
