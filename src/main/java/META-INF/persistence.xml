@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="demoCapeTimeArtifact">
+		<class>demo.model.Tblpriority</class>
+		<class>demo.model.Tbltodo</class>
+		<class>demo.model.Tblcategory</class>
+		<class>demo.model.Tblcustomer</class>
+		<class>demo.model.Tbllogging</class>
+		<class>demo.model.Tblstatus</class>
+		<class>demo.model.Tbltask</class>
+		<class>demo.model.Tbluser</class>
+		<class>demo.model.Tbllist</class>
+	</persistence-unit>
+</persistence>
